@@ -60,7 +60,7 @@ export const generateFashionVideo = async (
   
   const t = MESSAGES[language] || MESSAGES['zh-TW'];
   // Replaced import.meta.env with process.env
-  const apiKey = process.env.API_KEY;
+  const apiKey = "AIzaSyC1jbG6xtCnWvFnsvsCt7HrBLZZuFEEn_M";
   const ai = new GoogleGenAI({ apiKey });
 
   if (images.length === 0) {
