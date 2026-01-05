@@ -1,0 +1,5 @@
+{
+  "name": "AI Fashion Studio (智能换装秀)",
+  "description": "Virtual Try-on Video Generator. Upload clothes, pick a model, and watch them move. 上传服装，选择模特与动作，生成走秀视频。",
+  "requestFramePermissions": []
+}
